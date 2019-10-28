@@ -1,6 +1,7 @@
 # Splitting Steepest Descent for Growing NeuralArchitectures
 We develop a progressive training approach for neural networks which adaptively grows the network structure by splitting existing neurons to multiple off-springs.
-[[Paper]](https://arxiv.org/abs/1910.02366)     
+
+[[Paper]](https://arxiv.org/abs/1910.02366)  Neurips 2019    
 
 ## Overview
 This code mainly implements our algorithm on CIFAR10 and CIFAR100 datasets and uses MobileNet V1 as the backbone. To use the code, simply run the mbv1/train.sh script.
