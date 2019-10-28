@@ -1,5 +1,5 @@
 # Splitting Steepest Descent for Growing NeuralArchitectures
-We develop a progressive training approach for neural networks which adaptively grows the network structure by splitting existing neurons to multiple off-springs. We test our algorithm on several
+We develop a progressive training approach for neural networks which adaptively grows the network structure by splitting existing neurons to multiple off-springs.
 [[Paper]](https://arxiv.org/abs/1910.02366)     
 
 ## Overview
