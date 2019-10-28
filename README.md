@@ -3,7 +3,7 @@ We develop a progressive training approach for neural networks which adaptively 
 [[Paper]](https://arxiv.org/abs/1910.02366)     
 
 ## Overview
-This code mainly implements our algorithm on CIFAR10 and CIFAR100 datasets and uses MobileNet V1 as the backbone. To use the code, simply run the train.sh script.
+This code mainly implements our algorithm on CIFAR10 and CIFAR100 datasets and uses MobileNet V1 as the backbone. To use the code, simply run the mbv1/train.sh script.
 
 ## Citation
 Please cite this paper if you want to use it in your work,
