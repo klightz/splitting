@@ -1,5 +1,5 @@
 # Splitting Steepest Descent for Growing Neural Architectures
-Here is the implementation of the following paper which is recieved by NeurIPS 2019.
+Here is the implementation of the following paper which is received by NeurIPS 2019.
 
 [[Paper]](https://arxiv.org/abs/1910.02366)      
 
