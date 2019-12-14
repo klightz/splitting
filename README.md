@@ -16,5 +16,8 @@ Please cite this paper if you want to use it in your work,
       year={2019}
     }
 
+## Energy-Aware Fast Splitting version
+Here is an Energy-aware fast splitting version with more benchmarks implemented. [[Link]](https://github.com/dilinwang820/fast-energy-aware-splitting)
+
 ## License
 MIT License
