@@ -7,7 +7,7 @@ Here is the implementation of the following paper which is received by NeurIPS 2
 This code mainly implements our algorithm on CIFAR10 and CIFAR100 datasets and uses MobileNet V1 as the backbone. To use the code, simply run
 
 ```shell 
-mbv1/train.sh
+bash mbv1/train.sh
 ```
 
 ## Citation
