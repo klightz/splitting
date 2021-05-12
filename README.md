@@ -20,6 +20,9 @@ Please cite this paper if you want to use it in your work,
       year={2019}
     }
 
+## Firefly Splitting version
+Here is our related work Firefly splitting. This allows more splitting schemes with much faster speed by approximating the splitting metrics by first-order information. [[Link]](https://github.com/klightz/Firefly)
+
 ## Energy-Aware Fast Splitting version
 Here is an Energy-aware fast splitting version with more benchmarks implemented. [[Link]](https://github.com/dilinwang820/fast-energy-aware-splitting)
 
