@@ -21,7 +21,7 @@ Please cite this paper if you want to use it in your work,
     }
 
 ## Firefly Splitting version
-Here is our related work Firefly splitting. This allows more splitting schemes with much faster speed by approximating the splitting metrics by first-order information. [[Link]](https://github.com/klightz/Firefly)
+Here is our related work Firefly Neural Architecture Descent: a General Approach for Growing Neural Networks, which is accepted by Neurips 2020. This work allows more splitting schemes with much faster speed by approximating the splitting metrics using the first-order information. [[Link]](https://github.com/klightz/Firefly)
 
 ## Energy-Aware Fast Splitting version
 Here is an Energy-aware fast splitting version with more benchmarks implemented. [[Link]](https://github.com/dilinwang820/fast-energy-aware-splitting)
